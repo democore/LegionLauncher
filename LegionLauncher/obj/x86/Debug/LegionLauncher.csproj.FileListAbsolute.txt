@@ -1,0 +1,16 @@
+c:\users\niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\bin\Debug\LegionLauncher.exe
+c:\users\niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\bin\Debug\LegionLauncher.pdb
+c:\users\niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\obj\x86\Debug\LegionLauncher.Form1.resources
+c:\users\niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\obj\x86\Debug\LegionLauncher.Properties.Resources.resources
+c:\users\niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\obj\x86\Debug\LegionLauncher.csproj.GenerateResource.Cache
+c:\users\niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\obj\x86\Debug\LegionLauncher.exe
+c:\users\niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\obj\x86\Debug\LegionLauncher.pdb
+c:\users\niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\bin\Debug\Newtonsoft.Json.dll
+c:\users\niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\obj\x86\Debug\LegionLauncher.csprojResolveAssemblyReference.cache
+c:\users\niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\bin\Debug\LegionLauncher.exe.config
+C:\Users\Niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\bin\Debug\SevenZipSharp.dll
+C:\Users\Niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\obj\x86\Debug\LegionLauncher.AskForPassword.resources
+C:\Users\Niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\obj\x86\Debug\LegionLauncher.EditPasswords.resources
+C:\Users\Niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\obj\x86\Debug\LegionLauncher.EditPassword.resources
+C:\Users\Niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\obj\x86\Debug\LegionLauncher.ViewModstring.resources
+C:\Users\Niky\documents\visual studio 2010\Projects\LegionLauncher\LegionLauncher\obj\x86\Debug\LegionLauncher.ProfileEditor.resources
